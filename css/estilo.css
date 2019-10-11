@@ -1,0 +1,7 @@
+.Cuadro{
+    height: 90px;
+	width: 90px;
+	border:10px solid black;
+	display: inline-block;
+	margin-left: 30px;
+}
